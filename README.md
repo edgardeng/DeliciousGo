@@ -1,11 +1,16 @@
-# DeliciousGo
+# DeliciousGo 吃趣
 
 ### Steps for DeliciousGo 
 
 > DeliciousGo 是一个大众用户，分享小吃图片，小吃地址，小吃体验的平台。
 同时 给用户提供 寻找小吃 的美食攻略
 
+
 ![Alt text](./assets/step.png "Optional title")
+ 
+[logo:](./docs/Logo.md) ![DeliciousGo](./assets/icon.png "Optional title") 
+
+
 
 ## Why?
 
