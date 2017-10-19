@@ -10,7 +10,7 @@
  
 [logo:](./docs/Logo.md) ![DeliciousGo](./assets/icon.png "Optional title") 
 
-
+[Task and Plan](./docs/TASK_LOG.md) 
 
 ## Why?
 
@@ -44,3 +44,19 @@
 
 ## Check
 > 平台表现如何，用户的评价如何？通过使用数据和反馈数据，分析项目在每个阶段的问题，做出下一步的解决。
+
+
+
+## Git Commit
+
+:apple: Add New Code
+:wrench: Fix Change Error Code,
+:hammer: strength Function
+:bug: Find and Remove a bug
+:fire: Remove file or code
+:memo: write a memo
+
+
+
+
+
